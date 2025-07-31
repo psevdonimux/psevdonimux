@@ -1,16 +1,12 @@
-## Hi there 👋
+## Обо мне
 
-<!--
-**psevdonimux/psevdonimux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://psevdonimux.ru
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="stat" align="center">
+    <a href="#">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=psevdonimux&show_icons=true&bg_color=00000000">
+    </a>
+    <a href="#">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psevdonimux&layout=compact&show_icons=true&bg_color=00000000">
+    </a>
+</div>

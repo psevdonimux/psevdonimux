@@ -1,4 +1,4 @@
-## psevdonimux
+## psevdonimux - Статистика
 
 <div id="stat" align="center">
     <a href="#">

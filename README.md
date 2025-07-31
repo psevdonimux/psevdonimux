@@ -1,6 +1,4 @@
-## Обо мне
-
-https://psevdonimux.ru
+## psevdonimux
 
 <div id="stat" align="center">
     <a href="#">
